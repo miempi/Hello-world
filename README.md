@@ -1,2 +1,6 @@
 # Hello-world
-just another repository
+
+Hello world, i'm changing my file for the first time.
+WOW! 
+
+DOEI!
